@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Adham Elmasry](mailto:adham.elmasry@owasp.org)
+* [Muhammad Nasef](mailto:muhammad.nasef@owasp.org)
