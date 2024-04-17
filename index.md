@@ -9,8 +9,6 @@ meetup-group:
 
 ---
 
-<div style='color:red;'>
-
 ## Welcome to OWASP of the magestic Giza !
 Welcome to the OWASP Giza chapter, where the allure of pyramids, the mystery of the Sphinx, and the vastness of the desert converge with the fascination of cybersecurity. Our goal in this chapter is to create a dynamic platform for exchanging knowledge and ideas within the cybersecurity community. We invite individuals to take the stage, share their expertise, and contribute to the collective understanding of cybersecurity challenges and solutions.
 
